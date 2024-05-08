@@ -1,10 +1,16 @@
 {
-    "books": [
-        {
-            "id": 1,
-            "title": "Mastering JS",
-            "author": "Mr. X",
-            "cost": "300"
-        }
-    ]
+  "books": [
+    {
+      "id": "1",
+      "title": "Mastering JS",
+      "author": "Mr. XYZ",
+      "price": 300
+    },
+    {
+      "id": "1715157876111",
+      "title": "Mastering Angular",
+      "author": "Mr. ABC",
+      "price": 222
+    }
+  ]
 }
